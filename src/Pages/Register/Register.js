@@ -13,7 +13,7 @@ const Register = () => {
     const [
         createUserWithEmailAndPassword,
         user, error,
-    ] = useCreateUserWithEmailAndPassword(auth);
+    ] = useCreateUserWithEmailAndPassword(auth, {sendEmailVerification: true});
 
     const navigate = useNavigate()
 
@@ -21,7 +21,7 @@ const Register = () => {
         return (<p>Error: {error.message}</p>);
     }
     if (user) {
-        navigate('/login')
+        navigate('/home')
     }
 
     return (

@@ -78,7 +78,9 @@ const Login = () => {
                     <Form.Control ref={passwordRef} type="password" placeholder="Password" required />
                 </Form.Group>
                 
-                <Button className='bg-primary w-50 mx-auto d-block mb-2' type="submit">Login</Button>
+               
+               <Button className='bg-primary w-50 mx-auto d-block mb-2' type="submit">Login</Button>
+             
             </Form>
             {errorElement}
             <p className='mx-auto'>আপনি এখানে নতুন?    <Link to="/register" className='text-primary pe-auto text-decoration-none' onClick={navigateRegister}>ক্লিক করুন</Link></p>
