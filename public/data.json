@@ -3,63 +3,63 @@
         "id": "1",
         "img": "https://i.ibb.co/6r9wG2S/pexels-francesco-ungaro-3390587.jpg",
         "name": "Under The Water",
-        "price": "200$",
+        "price": "200",
         "discriptions": "We received sad news today about the passing of  our friend David Cheung after an illness. “Cheungy” as he was known, was a legend within the world of underwater photography."
     },
     {
         "id": "2",
         "img": "https://i.ibb.co/jf2fQ6m/pexels-frans-van-heerden-1912176.jpg",
         "name": "The King",
-        "price": "300$",
+        "price": "300",
         "discriptions": "The lion dynamics we are experiencing here at Londolozi at the moment are extremely interesting, to say the least. Since the arrival of the Ndzhenga Coalition in early November 2021.."
     },
     {
         "id": "3",
         "img": "https://i.ibb.co/4NrTwp9/pexels-george-desipris-2055100.jpg",
         "name": "Nightmare of jungal",
-        "price": "300$",
+        "price": "800",
         "discriptions": "Are tiger safaris with children in the Indian jungle a good idea for a family holiday? I often get asked this question by guests travelling with their little ones. The short answer is yes, absolutely! Introducing your kids to the"
     },
     {
         "id": "4",
         "img": "https://i.ibb.co/kJ58r2H/pexels-jan-kop-iva-3281127.jpg",
         "name": "Life is short, but snakes are long",
-        "price": "300$",
+        "price": "300",
         "discriptions": "Kingsnakes get their name because they eat other snakes, including venomous snakes like copperheads, cottonmouths, and rattlesnakes. They also eat lots of other kinds of prey, including non-venomous snakes, lizards, turtle eggs, and small mammals."
     },
     {
         "id": "5",
         "img": "https://i.ibb.co/n83B604/pexels-pixabay-248241.jpg",
         "name": "{{fdfff}",
-        "price": "300$",
+        "price": "450",
         "discriptions": "<ReferenceError: gggagdg is not defined>"
     },
     {
         "id": "6",
         "img": "https://i.ibb.co/RSNGMMX/pexels-jonas-von-werne-3354346.jpg",
         "name": "{{fdfff}",
-        "price": "300$",
+        "price": "700",
         "discriptions": "<ReferenceError: gggagdg is not defined>"
     },
     {
         "id": "7",
         "img": "https://i.ibb.co/BnJ9LSz/pexels-laura-the-explaura-3608263.jpg",
         "name": "{{fdfff}",
-        "price": "300$",
+        "price": "600",
         "discriptions": "<ReferenceError: gggagdg is not defined>"
     },
     {
         "id": "8",
         "img": "https://i.ibb.co/jvrB1Vv/pexels-leonid-danilov-2690766.jpg",
         "name": "{{fdfff}",
-        "price": "300$",
+        "price": "500",
         "discriptions": "<ReferenceError: gggagdg is not defined>"
     },
     {
         "id": "9",
         "img": "https://i.ibb.co/n83B604/pexels-pixabay-248241.jpg",
         "name": "{{fdfff}",
-        "price": "300$",
+        "price": "340",
         "discriptions": "<ReferenceError: gggagdg is not defined>"
     }
 ]

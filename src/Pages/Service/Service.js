@@ -13,11 +13,11 @@ const Service = ({ service }) => {
     return (
 
         <div>
-    <Card className="bg-dark text-white">
-  <Card.Img src={img} alt="Card image" />
+    <Card className="bg-dark text-white ">
+  <Card.Img style={{height: '400px'}} src={img} alt="Card image" />
   <Card.ImgOverlay>
     <Card.Title>
-        <h1 className='text-center '>{name}</h1>
+        <h1 className='text-center'>{name}</h1>
     </Card.Title>
     <Card.Text>
      <h1 className='text-center'>${price}</h1>
@@ -28,7 +28,7 @@ const Service = ({ service }) => {
  
 </Card>
 <button style={{height: '50px'}} onClick={()=> navigateToServiceDetail(id)} 
-className='btn-service btn-dark w-100   '>Check</button>
+className='btn-service btn-dark w-100   '>Check Out >>></button>
 
 
         </div>

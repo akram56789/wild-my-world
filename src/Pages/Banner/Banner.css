@@ -1,4 +1,17 @@
-.banner {
-    position: absolute;
-    margin-top: 0%;
+.dear {
+    font-size: 150px;
+    color: rgba(240, 248, 255, 0.749);
+    margin-bottom: 100px;
+}
+
+.zebra {
+    font-size: 150px;
+    color: rgba(240, 248, 255, 0.85);
+    margin-bottom: 100px;
+}
+
+.giant {
+    font-size: 150px;
+    color: rgba(240, 248, 255, 0.749);
+    margin-bottom: 100px;
 }

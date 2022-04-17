@@ -3,6 +3,7 @@ import { Carousel } from 'react-bootstrap';
 import banner1 from '../Banner/banner-images/banner1.jpg';
 import banner2 from '../Banner/banner-images/banner2.jpg';
 import banner3 from '../Banner/banner-images/banner3.jpg';
+import './Banner.css';
 
 const Banner = () => {
     const [index, setIndex] = useState(0);
@@ -20,7 +21,7 @@ const Banner = () => {
                 alt="First slide"
             />
             <Carousel.Caption>
-                <h3>My dear 🦌</h3>
+                <h1 className='dear'>My dear </h1>
                 <p className='text-dark'>One of the Most buitifool animal</p>
             </Carousel.Caption>
         </Carousel.Item>
@@ -32,7 +33,7 @@ const Banner = () => {
             />
 
             <Carousel.Caption>
-                <h1>Zebra 🦓</h1>
+                <h1 className='zebra' >Zebra </h1>
                 <p>The Black and White</p>
             </Carousel.Caption>
         </Carousel.Item>
@@ -44,7 +45,7 @@ const Banner = () => {
             />
 
             <Carousel.Caption>
-                <h3>Giant 🐘 </h3>
+                <h1 className='giant'>Giant </h1>
                 <p>
                     i'm habby
                 </p>
