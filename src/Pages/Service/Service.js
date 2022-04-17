@@ -24,9 +24,11 @@ const Service = ({ service }) => {
     </Card.Text>
     <Card.Text> </Card.Text>
   </Card.ImgOverlay>
-  <button c onClick={()=> navigateToServiceDetail(id)} 
-className='btn-service btn btn-primary  '>Check</button>
+
+ 
 </Card>
+<button style={{height: '50px'}} onClick={()=> navigateToServiceDetail(id)} 
+className='btn-service btn-dark w-100   '>Check</button>
 
 
         </div>

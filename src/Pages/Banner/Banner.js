@@ -20,7 +20,7 @@ const Banner = () => {
                 alt="First slide"
             />
             <Carousel.Caption>
-                <h3>My dear</h3>
+                <h3>My dear 🦌</h3>
                 <p className='text-dark'>One of the Most buitifool animal</p>
             </Carousel.Caption>
         </Carousel.Item>
@@ -32,8 +32,8 @@ const Banner = () => {
             />
 
             <Carousel.Caption>
-                <h3>Second slide label</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <h1>Zebra 🦓</h1>
+                <p>The Black and White</p>
             </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
@@ -44,9 +44,9 @@ const Banner = () => {
             />
 
             <Carousel.Caption>
-                <h3>Third slide label</h3>
+                <h3>Giant 🐘 </h3>
                 <p>
-                    Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+                    i'm habby
                 </p>
             </Carousel.Caption>
         </Carousel.Item>
