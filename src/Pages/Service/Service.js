@@ -11,7 +11,7 @@ const Service = ({ service }) => {
     }
     return (
 
-        <div className='service p-4'>
+        <div className='service p-4 mb-4'>
         <img className='w-50 img-fluid' src={img} alt="">
             
             </img> 
