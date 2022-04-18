@@ -12,7 +12,7 @@ const Footer = () => {
         <div className='footer'>
             <footer className="bg-dark text-center text-white">
 
-                <div class="footer-container p-4 pb-0">
+                <div class="container p-4 pb-0">
 
                     <section class="mb-4">
 

@@ -13,7 +13,7 @@ const Register = () => {
     const [
         createUserWithEmailAndPassword,
         user, error,
-    ] = useCreateUserWithEmailAndPassword(auth, {sendEmailVerification: true});
+    ] = useCreateUserWithEmailAndPassword(auth, { sendEmailVerification: true });
 
     const navigate = useNavigate()
 
@@ -59,8 +59,8 @@ const Register = () => {
                 <input onClick={() => setAgree(!agree)} className='mb-4' type="checkbox" name="terms" id="terms" />
 
                 <label className={`ps-2 ${agree ? 'text-primary' : 'text-danger'}`} htmlFor="terms">Accept Terms and Conditions</label>
-                <button className='btn btn-primary m-2 ' disabled={!agree} onClick={() => createUserWithEmailAndPassword(email, password)}>
-                     Register
+                <button disabled={!agree} onClick={() => createUserWithEmailAndPassword(email, password)}>
+                    Register
                 </button>
 
                 {/* <input disabled={!agree} className='form-submit w-50 mx-auto btn btn-primary' type="submit" value="Register" /> */}

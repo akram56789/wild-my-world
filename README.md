@@ -13,10 +13,11 @@
 -  this website is build in react⚛️ which is most popular library of javaScript. 
 - in this website i used routing. you can go any page by using routing without reloading.😎
 _  and i used react firebase hooks wow its amazing !! you will love it ❤
--  and for the first time i have used custom hooks in any website.😍
+-  and for the first time i have used  firebase in any website.😍
 - this wed has super color combination.🎨
-- and i create a fancy dashboard.📊
+- and i create a fancy website base on wild  photography.
 - you can login this page then you will see the result 😍
+- if you click the about you will see about me 😎
 - this web has also 404 not found page.❌
  
 
