@@ -2,7 +2,7 @@ import React from 'react';
 import { Link, useParams } from 'react-router-dom';
 
 const ServiceDetail = () => {
-    const {serviceId, img} = useParams();
+    const {serviceId} = useParams();
     return (
         <div>
              

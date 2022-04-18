@@ -14,7 +14,7 @@ const Services = () => {
         <div>
               <div id='services' className='container'>
         <div className="row ">
-        <h1 className='services-title mt-5'> My Services 🐵</h1>
+        <h1 className='services-title mt-5'>  I SHOOT 📷</h1>
             <div className="services-container">
                 {
                     services.map(service => <Service

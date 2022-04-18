@@ -51,7 +51,7 @@ const Login = () => {
         navigate('/register')
     }
 
-    const risetPassword = async() =>{
+    const resetPassword = async() =>{
         const email = emailRef.current.value;
        if(email){
         await sendPasswordResetEmail(email);
@@ -85,7 +85,7 @@ const Login = () => {
             </Form>
             {errorElement}
             <p className='mx-auto'>আপনি এখানে নতুন?    <Link to="/register" className='text-primary pe-auto text-decoration-none' onClick={navigateRegister}>ক্লিক করুন</Link></p>
-            <p className='mx-auto'>আপনি কি পাসওয়ার্ড ভুলে গেছেন?    <button   className=' btn btn-link text-primary ps-auto text-decoration-none' onClick={risetPassword}>পাসওয়ার্ড রিসেট দিন</button></p>
+            <p className='mx-auto'>আপনি কি পাসওয়ার্ড ভুলে গেছেন?    <button   className=' btn btn-link text-primary ps-auto text-decoration-none' onClick={resetPassword}>পাসওয়ার্ড রিসেট দিন</button></p>
             <SocialLogin></SocialLogin>
             <ToastContainer />
 

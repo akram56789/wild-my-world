@@ -22,7 +22,7 @@ const Banner = () => {
             />
             <Carousel.Caption>
                 <h1 className='dear'>My dear </h1>
-                <p className='text-dark'>One of the Most buitifool animal</p>
+                <p >One of the Most beautiful animal</p>
             </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
@@ -47,7 +47,7 @@ const Banner = () => {
             <Carousel.Caption>
                 <h1 className='giant'>Giant </h1>
                 <p>
-                    i'm habby
+                    i'm heavy 
                 </p>
             </Carousel.Caption>
         </Carousel.Item>

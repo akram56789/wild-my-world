@@ -22,7 +22,7 @@ const Footer = () => {
             href="https://www.facebook.com/"
             role="button" rel="noreferrer"
         > 
-        <img className='facebook' src="http://logok.org/wp-content/uploads/2021/11/Facebook-Logo-2019-640x480.png" alt="" />
+        <img className='facebook' src="https://www.qualitylogoproducts.com/images/_promo-university/social-media/_icon_facebook-smi.svg" alt="img" />
         </a>
 
 
@@ -32,7 +32,7 @@ const Footer = () => {
             href="https://twitter.com/?lang=en"
             role="button" rel="noreferrer"
         > 
-        <img className='twitter' src="http://logok.org/wp-content/uploads/2014/08/Twitter-logo-bird_logo_2012-880x660.png" alt="" />
+        <img className='twitter' src="https://logos-download.com/wp-content/uploads/2016/02/Twitter_Logo_new.png" alt="img" />
          </a>
 
 
@@ -43,7 +43,7 @@ const Footer = () => {
             href="https://www.google.com/"
             role="button" rel="noreferrer"
         > 
-            <img className='google' src="http://logok.org/wp-content/uploads/2015/09/Google-logo-2015-G-icon-640x480.png" alt="" />
+            <img className='google' src="https://bookassist.org/wp-content/uploads/elementor/thumbs/google-logo-pahn4ktunr3f9dmhvb0zbr0d3jczu21k3leynx4yts.jpg" alt="img" />
          </a>
 
 
@@ -53,7 +53,7 @@ const Footer = () => {
             href="https://youtube.com/"
             role="button" rel="noreferrer"
         > 
-        <img className='youtube' src="http://logok.org/wp-content/uploads/2014/08/Youtube-logo-2017-640x480.png" alt="" />
+        <img className='youtube' src="https://thumbs.dreamstime.com/b/web-189206689.jpg" alt="img" />
         </a>
 
 
@@ -63,7 +63,7 @@ const Footer = () => {
             href="https://github.com/"
             role="button" rel="noreferrer"
         > 
-        <img className='github' src="https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757_960_720.png" alt="" />
+        <img className='github' src="https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757_960_720.png" alt="img" />
         </a>
 
        
