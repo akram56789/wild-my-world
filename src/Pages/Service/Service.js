@@ -17,14 +17,15 @@ const Service = ({ service }) => {
   <Card.Img className='animal-img'  style={{height: '400px'}} src={img} alt="Card image" />
   <Card.ImgOverlay>
     <Card.Title>
-        <h1 className='text-center text-white'>{name}</h1>
+        <h1 className='service-name text-center text-white'>{name}</h1>
     </Card.Title>
     <Card.Text>
-     <h1 className='text-center text-white'>${price}</h1>
+     {/* <h1 className='text-center text-white'>${price}</h1> */}
     </Card.Text>
     
   </Card.ImgOverlay>
   <Card.Text> 
+        <h4 className='p-2'>Price: ${price}</h4>
           <p className='p-2'>{discriptions.slice(50, 200)}</p>
          </Card.Text>
 

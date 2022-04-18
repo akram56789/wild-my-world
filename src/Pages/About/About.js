@@ -4,8 +4,8 @@ import './About.css';
 
 const About = () => {
     return (
-        <div className='about'>
-            <Card  style={{ width: '30rem' }}>
+        <div className='about mt-5'>
+            <Card   style={{ width: '30rem' }}>
                 <Card.Img variant="top" src=" " />
                 <Card.Body>
                     <Card.Title>Name: Akram Hossain Fahim</Card.Title>
