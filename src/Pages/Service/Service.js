@@ -22,30 +22,22 @@ const Service = ({ service }) => {
     <Card.Text>
      <h1 className='text-center'>${price}</h1>
     </Card.Text>
-    <Card.Text> </Card.Text>
+    
   </Card.ImgOverlay>
+  <Card.Text> 
+          <p className='p-2'>{discriptions.slice(50, 200)}</p>
+         </Card.Text>
 
  
 </Card>
 <button style={{height: '50px'}} onClick={()=> navigateToServiceDetail(id)} 
-className='btn-service btn-dark w-100   '>Check Out >>></button>
+className='btn-service btn-dark w-100   '>Check Out 👉👉 </button>
 
 
         </div>
 
-        // <div className='service p-4 mb-4'>
-        // <img className='w-50  ' src={img} alt="">
-            
-        //     </img> 
-          
-        // <div className='mt-4'>
-        // <h3>{name}</h3>
-        //    <p><small>{discriptions}</small></p>
-        //    <p>{price}</p>
          
-        // </div>
-           
-        // </div >
+      
       
     );
 };

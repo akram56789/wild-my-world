@@ -25,41 +25,20 @@
         "img": "https://i.ibb.co/kJ58r2H/pexels-jan-kop-iva-3281127.jpg",
         "name": "Life is short, but snakes are long",
         "price": "300",
-        "discriptions": "Kingsnakes get their name because they eat other snakes, including venomous snakes like copperheads, cottonmouths, and rattlesnakes. They also eat lots of other kinds of prey, including non-venomous snakes, lizards, turtle eggs, and small mammals."
+        "discriptions": "Kingsnakes get their name because they eat other snakes, including venomous snakes like copperheads, cottonmouths, and rattlesnakes. They  eat lots of other kinds of prey, including non-venomous snakes, lizards, turtle eggs, and small mammals."
     },
     {
         "id": "5",
         "img": "https://i.ibb.co/n83B604/pexels-pixabay-248241.jpg",
-        "name": "{{fdfff}",
+        "name": "Bird Click",
         "price": "450",
-        "discriptions": "<ReferenceError: gggagdg is not defined>"
-    },
-    {
-        "id": "6",
-        "img": "https://i.ibb.co/RSNGMMX/pexels-jonas-von-werne-3354346.jpg",
-        "name": "{{fdfff}",
-        "price": "700",
-        "discriptions": "<ReferenceError: gggagdg is not defined>"
+        "discriptions": "Kingsnakes get their name because they eat other snakes, including venomous snakes like copperheads, cottonmouths, and rattlesnakes. They  eat lots of other kinds of prey, including non-venomous snakes, lizards, turtle eggs, and small mammals."
     },
     {
         "id": "7",
         "img": "https://i.ibb.co/BnJ9LSz/pexels-laura-the-explaura-3608263.jpg",
-        "name": "{{fdfff}",
+        "name": "Pamda Shot",
         "price": "600",
-        "discriptions": "<ReferenceError: gggagdg is not defined>"
-    },
-    {
-        "id": "8",
-        "img": "https://i.ibb.co/jvrB1Vv/pexels-leonid-danilov-2690766.jpg",
-        "name": "{{fdfff}",
-        "price": "500",
-        "discriptions": "<ReferenceError: gggagdg is not defined>"
-    },
-    {
-        "id": "9",
-        "img": "https://i.ibb.co/n83B604/pexels-pixabay-248241.jpg",
-        "name": "{{fdfff}",
-        "price": "340",
-        "discriptions": "<ReferenceError: gggagdg is not defined>"
+        "discriptions": "Kingsnakes get their name because they eat other snakes, including venomous snakes like copperheads, cottonmouths, and rattlesnakes. They  eat lots of other kinds of prey, including non-venomous snakes, lizards, turtle eggs, and small mammals."
     }
 ]

@@ -5,11 +5,11 @@ const ServiceDetail = () => {
     const {serviceId, img} = useParams();
     return (
         <div>
-            <img src={img} alt="" />
-            <h2>Welcome to detail:{serviceId}</h2>
+             
+            <h1 className='d-flex justify-content-center mb-5' >Welcome to detail:{serviceId}</h1>
          <div className='text-center'>
          <Link to='/checkout'>
-                <button className='btn btn-primary'>Proceed Checkout </button>
+                <button className='btn btn-primary mb-5'>Proceed Checkout </button>
             </Link>
          </div>
         </div>

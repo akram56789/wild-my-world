@@ -2,8 +2,8 @@ import React from 'react';
 
 const CheckOut = () => {
     return (
-        <div>
-            <h1>this is checkout</h1>
+        <div className='d-flex justify-content-center'>
+            <h1>tWelcome to checkout</h1>
         </div>
     );
 };
